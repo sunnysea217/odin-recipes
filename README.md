@@ -1,4 +1,4 @@
-# odin-recipes
+# odin-recipes 
 
-<h1>Ma's Filipino Recipes</h1>
- <h3>(Odin Project Solution)</h3>
+<h3>Ma's Filipino Recipes</h3>
+ <h5>(Odin Project Solution)</h5>
